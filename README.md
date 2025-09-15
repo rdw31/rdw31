@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Blue Ridge Parkway](20221101_133233.jpg)
+![Blue Ridge Parkway](rdw31/images/20221101_133233.jpg)
 
 
 ## About me
