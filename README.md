@@ -10,6 +10,7 @@
  
 <details open>
 <summary>My top Languages</summary>
+ 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
