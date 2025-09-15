@@ -11,11 +11,11 @@
 <details open>
 <summary>My top Languages</summary>
  
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| Python    |
+|     3| SQL       |
 </details>
 
 ---
