@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Blue Ridge Parkway](![20221101_133233](https://github.com/rdw31/images/tree/main)
+![Blue Ridge Parkway](20221101_133233.jpg
 )
 
 
