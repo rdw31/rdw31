@@ -1,10 +1,7 @@
 ## Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Bleach zero division emblem" src="<img width="189" height="267" alt="Untitled" src="https://github.com/user-attachments/assets/c038dd5f-a4d9-4f10-aa45-2fd2b4f23180" />
->"
-</picture>
+![Bleach squad zero emblem](<img width="189" height="267" alt="Untitled" src="https://github.com/user-attachments/assets/84061e45-ea1e-4ed3-bfa5-7a0aeef797bc" />
+)
+
 
 ## About me
 
