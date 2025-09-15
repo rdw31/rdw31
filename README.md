@@ -6,6 +6,8 @@
 </picture>
 
 ## About me
+
+<!-- TO DO: add more details about me later -->
  I'm Russell. I'm currently studying Computer Science at Old Dominion University.
  
 <details open>
