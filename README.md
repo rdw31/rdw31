@@ -6,14 +6,15 @@
 </picture>
 
 ## About me
- I'm Russell. - 🎓 Studying Computer Science at Old Dominion University
+ I'm Russell. I'm currently studying Computer Science at Old Dominion University.
+ 
 <details open>
 <summary>My top Languages</summary>
-| Rank |  Languages |
-|-----:|------------|
-|     1|  Java      |
-|     2|  Python    |
-|     3|  SQL       |
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 </details>
 
 ---
